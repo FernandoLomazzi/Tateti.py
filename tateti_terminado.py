@@ -56,7 +56,7 @@ def deshabilitar_botones():
 	b32.config(state=DISABLED)
 	b33.config(state=DISABLED)
 
-#+=====Implementacion=======+
+#+=====Implementacion=======+#
 hacer = ()
 g = [
 [' ',' ',' '],
